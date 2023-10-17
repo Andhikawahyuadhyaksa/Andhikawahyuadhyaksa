@@ -7,8 +7,8 @@ Jadi aplikasi ini bekerja sebagai pengganti consultant psikologi, yang dapat dil
 Aplikasi ini bekerja dengan menggunakan A.I sebagai konsultan, jadi pengguna dapat menceritakan dan menanyakan kepada konsultan A.I tersebut, lalu ketika sudah menerima pesan tersebut A.I dapat menjawab nya secara langsung 
 
 # Manfaat aplikasi ini
-Untuk mengurangi gangguan psikologis yang dialami
-Dapat menjadi alternatif untuk sebagai tempat konsultasi
+Untuk mengurangi gangguan psikologis yang dialami 
+Dan dapat menjadi alternatif untuk sebagai tempat konsultasi
 
 
 <!---
