@@ -1,14 +1,31 @@
-# A.I as Consultant
+# Light Searching Robot With Obstacle Avoidance
 
-this is my code for make an app to be an psychology consultant 
+this is my code for make a robot 
 
-# Bagaimana cara aplikasi ini bekerja 
-Jadi aplikasi ini bekerja sebagai pengganti consultant psikologi, yang dapat dilakukan melalui sebuah aplikasi. Tentu ini tidak akan sebaik psikologi yang dilakukan denga manusia langsung, karena pendekatan yang dilakukan manusia ke manusia lain tidak akan bisa dilakukan oleh A.I tetapi ini diharapkan bisa menjadi alternatif bagi seseorang untuk mendapat konsultasi secara cepat.
-Aplikasi ini bekerja dengan menggunakan A.I sebagai konsultan, jadi pengguna dapat menceritakan dan menanyakan kepada konsultan A.I tersebut, lalu ketika sudah menerima pesan tersebut A.I dapat menjawab nya secara langsung 
+# Penjelasan Light searching Robot With Obstacle Avoidance 
+Sebuah Robot kecil yang dibuat dengan sasis pololu dengan menggunakan NUCLEO F401RE hal ini bertujuan sebagai alat komunikasi antara sensor dan mengimplementasikan mesin 
 
-# Manfaat aplikasi ini
-Untuk mengurangi gangguan psikologis yang dialami 
-Dan dapat menjadi alternatif untuk sebagai tempat konsultasi
+# Tujuan
+Robot ini bekerja dengan menghindari rintangan yang dilalui dan mencari sumber cahaya di sumber terdekat
+
+# Sensor
+sensor yang digunakan : 
+1. PC8591 module (light sensor) x1
+2. SG90 Servo x1
+3. SRF04 Ultrasonic sensor x1
+4. DRV8835 H-Bridge x2
+5. Zumo Shield for Arduino x1
+6. NUCLEO-F401RE x1
+
+# Penggunaan 
+Setelah di-flash, satu-satunya operasi yang diperlukan adalah menyalakan tombol Zumo Shield dari mati ke hidup
+
+
+
+
+
+
+
 
 
 <!---
